@@ -1,0 +1,10 @@
+.input{
+display: flex;
+flex-direction: column;
+display: inline-block;
+margin-left: 560px;
+text-align: center;
+}
+.input-title{
+    color: rgb(23, 23, 94);
+}
